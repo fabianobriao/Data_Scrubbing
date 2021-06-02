@@ -1,2 +1,2 @@
 # Data_Scrubbing
-Este repositório é exclusivo para mostrar importações de dados através de diversos tipos de arquivos existentes em várias bases de dados. Ressalto que neste repositório é dedicado para a preparação e limpeza dos dos dados, esse tipo de ação é apresentada no repositório Data_Scrubbing. 
+Este repositório é exclusivo para mostrar processos de preparação de conjuntos de dados através de técnicas de reconhecimento de outliers, dados ausentes, nulos, não reconhecidos, dados homográfos, homônimos perfeitos e sinônimos. Assim como técnicas de correções de cabeçalhos, índices e  padronização de separadores, entre outras. As importações dos dados podem ser observadas com detalhes no repositório Data_Import.
